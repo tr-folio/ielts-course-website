@@ -1,0 +1,18 @@
+.notices-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.single-notice {
+    border: 1px solid gray;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.single-notice > h3 {
+    background-color: gray;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
