@@ -1,0 +1,40 @@
+/* About Image Styles */
+.about-img {
+    display: block;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+.about-img > img {
+    width: 100%;
+}
+
+/* About Us Styles */
+.about-us {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Our Teachers Styles */
+.teachers-container {
+    max-width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.single-teacher {
+    width: 200px;
+    padding: 10px;
+    background-color: gray;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+}
+
+.teacher-image {
+    width: 180px;
+}
+
+.teacher-image > img {
+    width: 100%;
+}
