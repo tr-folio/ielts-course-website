@@ -21,7 +21,7 @@ const Header = () => {
             </Navbar> */}
             <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
                 <Container>
-                    <Navbar.Brand className="text-info">React-Bootstrap</Navbar.Brand>
+                    <Navbar.Brand className="text-info">IELTS-Course</Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className="me-auto">
