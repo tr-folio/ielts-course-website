@@ -2,49 +2,49 @@
     {
         "id": 1,
         "title": "Listening Lesson",
-        "description": "Listening lesson will help you to build your English listening skill to do better in IELTS listening test.",
+        "description": "Listening is the first requirement to learn a language. This lesson will help you to build your English listening skill to do better in IELTS listening test.",
         "img": "https://images.unsplash.com/photo-1581372526706-30d69c143996?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE4fHxsaXN0ZW5pbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": 2,
         "title": "Reading Lesson",
-        "description": "Reading is another important part to learn English language. This lesson",
+        "description": "Reading is another important part to learn English language. From this lesson, you will learn how to read English books, newspapers, online articles, paragraphs and so on so that you can get ready for the reading test of IELTS.",
         "img": "https://images.unsplash.com/photo-1532294220147-279399e4e00f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fHJlYWRpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": 3,
         "title": "Speaking Lesson",
-        "description": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet",
+        "description": "Speaking is a very important part of your English learning. From this lesson, you will learn how to speak in English language properly so that it becomes helpful to you to become comfortable for the speaking test of IELTS.",
         "img": "https://images.unsplash.com/photo-1563807894768-f28bee0d37b6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHNwZWFraW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": 4,
         "title": "Writing Lesson",
-        "description": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet",
+        "description": "Writing is another important part of your English learning to do better in academic study and to build up a good professional career. This lesson will help you to build up your writing skill in English to do betterin writing test of IELTS.",
         "img": "https://images.unsplash.com/photo-1455390582262-044cdead277a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d3JpdGluZ3xlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": 5,
         "title": "Practice Session",
-        "description": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet",
+        "description": "After each lesson, there will be 1/2 days of practice session so that you can prepare yourself properly for the IELTS examination to get a good score.",
         "img": "https://images.unsplash.com/photo-1485359466996-ba9d9b4958b9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80"
     },
     {
         "id": 6,
         "title": "Weekly Test",
-        "description": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet",
+        "description": "In every week, there will be weekly tests so that you can find out your weakness on any lesson which will be very helpful for your improvement on any lesson if needed. In this way, you will be able to prepare yourself effectively before the IELTS exam.",
         "img": "https://images.unsplash.com/photo-1580974852861-c381510bc98a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGV4YW18ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": 7,
         "title": "Mock Test",
-        "description": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet",
+        "description": "A mock test is similar to the actual IELTS test. It will help to understand how to attend to an actual IELTS test. In this way, you will also be able to take preparation for the IELTS examination in a better way.",
         "img": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHdyaXRpbmd8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": 8,
         "title": "Special Counselling",
-        "description": "Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet",
+        "description": "During the course, you will also get special counselling service. It will be very helpful for you to understand any lesson if you need. Get all of our support and prepare yourself the IELTS examination properly.",
         "img": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29udmVyc2F0aW9ufGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     }
 ]
