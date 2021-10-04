@@ -1,4 +1,3 @@
-import { useEffect, useState } from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './App.css';
 import About from './Component/About/About';
@@ -9,12 +8,6 @@ import Notices from './Component/Notices/Notices';
 import Services from './Component/Services/Services';
 
 function App() {
-  const [services, setServices] = useState([]);
-  useEffect( () => {
-    fetch('./fakeServicesDb.json')
-    .then(res => res.json())
-    .then(data => setServices(data))
-  }, [])
   return (
     <div className="App">
       <Router>
