@@ -16,7 +16,11 @@ const Home = () => {
                 <div className="banner-img-container">
                     <img src="./banner.jpg" className="img-fluid"/>
                     <div className="banner-caption">
-                        <p>Start your IELTS journey with us. Learn English effectively.</p>
+                        <p>Start your IELTS journey with us.</p>
+                    </div>
+                    <div className="banner-text">
+                        <h1 className="fw-light text-white bg-dark rounded-pill p-3 w-75 m-auto mb-3">Learn English Effectively</h1>
+                        <button className="btn btn-light m-auto rounded-pill">Register Course Now</button>
                     </div>
                 </div>
             </div>
